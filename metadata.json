@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Entity Logistics Operations Console",
+  "description": "A comprehensive SaaS dashboard integrating clearing agency and fleet operations with real-time consolidation engine, automated formula computations, and status tracking dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
