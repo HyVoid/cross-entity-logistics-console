@@ -1,4 +1,3 @@
-# 🇺🇸 English
 
 # Turn Fragmented Logistics Operations Into One Profit View
 
