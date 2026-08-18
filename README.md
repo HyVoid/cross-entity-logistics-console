@@ -14,20 +14,6 @@
 
 ---
 
-## Screenshots
-
-### Browser Version
-<!-- screenshot: browser version -->
-
-*Shows the full operational funnel from customs release to final delivery, highlighting bottlenecks requiring management attention.*
-
-### Excel Version
-<!-- screenshot: excel version -->
-
-*Shows consolidated container-level profitability with operational status and exception monitoring.*
-
----
-
 ## What It Helps You Track
 
 - Total profit generated across customs clearance and fleet operations from a single view.
