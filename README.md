@@ -9,8 +9,8 @@
 
 > **No signup. No installation. Free.**
 >
-> 🌐 Open in Browser → *Add HTML live demo link here*  
-> 📥 Download Excel → *Add GitHub Release or Gumroad link here*
+> 🌐 Open in Browser → [*here*](https://hyvoid.github.io/cross-entity-logistics-console/)  
+> 📥 Download Excel → *coming soon*
 
 ---
 
