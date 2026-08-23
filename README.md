@@ -7,7 +7,9 @@
 
 **Track customs clearance, fleet execution, and container profitability in one lightweight workspace—free to use, with no installation required in either browser or spreadsheet format.**
 
-> **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 Open in Browser → [*here*](https://hyvoid.github.io/cross-entity-logistics-console/)  
 > 📥 Download Excel → *coming soon*
